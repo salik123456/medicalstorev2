@@ -33,7 +33,7 @@ const BlogPost = () => {
 
     return (
         <>
-            <div className='blog-post max-h-[75vh] relative site-wrapper bg-[#fafafa]'>
+            <div className='blog-post max-h-[100vh] relative site-wrapper bg-[#fafafa]'>
                 <div className='flex justify-between items-center'>
                     <h2 className='text-[#131313] font-bold text-[24px]'>
                         Blog Post
