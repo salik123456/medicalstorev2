@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.site-wrapper{
+  padding: 3rem 3rem;
+}
+.header-sec{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.below-sec{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}

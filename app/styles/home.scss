@@ -1,0 +1,38 @@
+.icons-sec{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+.blog-post{
+    .slick-slider{
+        .slick-track {
+            left: -6%;
+            .slick-slide{
+                margin: 0 1rem;
+            }
+        }
+        .slick-prev{
+            position: absolute;
+            top: 10%;
+            left: 0%;
+            z-index: 3;
+        }
+    .slick-next{
+        position: absolute;
+        top: 10%;
+        right: 0%;
+        z-index: 3;
+    }
+     
+    }
+}   
+
+
+.slick-prev:before {
+ display:none  !important
+}
+
+.slick-next:before {
+    display:none  !important
+   }
